@@ -1,0 +1,1 @@
+# variaveis-e-operadores1
